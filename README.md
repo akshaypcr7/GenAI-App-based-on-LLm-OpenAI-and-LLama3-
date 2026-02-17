@@ -21,3 +21,5 @@ This project shows how to scrape website data, convert it into embeddings, store
 - OpenAI  
 - ChromaDB  
 - FastAPI  
+- Llama
+- Gemma
