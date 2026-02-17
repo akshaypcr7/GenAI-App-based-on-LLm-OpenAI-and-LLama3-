@@ -1,1 +1,1 @@
-# GenAI-App-based-on-LLm-OpenAI-and-LLama3-
+# GenAI-Apps-based-on-LLm-OpenAI-and-LLama3-
